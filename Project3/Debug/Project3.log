@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  soporte.cpp
+C:\Users\andre\Desktop\rummy\Project3\soporte.h(3,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\andre\Desktop\rummy\Project3\soporte.h(9,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\andre\Desktop\rummy\Project3\jugadas.h(3,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project3.vcxproj -> C:\Users\andre\Desktop\rummy\Debug\rummyPracticaFP.exe
